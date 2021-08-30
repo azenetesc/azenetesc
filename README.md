@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Aze's GitHub stats](https://github-readme-stats.vercel.app/api?username=azenetesc&theme=radical&include_all_commits=true&count_private=true)
 -->
 
-![Aze's GitHub stats](https://github-readme-stats.vercel.app/api?username=azenetesc&theme=radical&include_all_commits=true&count_private=true)
+
+![aze's github stats](https://github-readme-stats.vercel.app/api?username=azenetesc&theme=dracula&show_icons=true)
