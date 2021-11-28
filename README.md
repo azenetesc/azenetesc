@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![aze's github stats](https://github-readme-stats.vercel.app/api?username=azenetesc&theme=dracula&show_icons=true)
+![aze's github stats](https://github-readme-stats.vercel.app/api?username=azenetesc&show_icons=true)
